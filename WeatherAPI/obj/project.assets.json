@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ab/Downloads/All-dotnet-projects/WeatherAPI/WeatherApi/WeatherApi.csproj",
+      "projectUniqueName": "/home/ab/Downloads/All-dotnet-projects/Weatherforecastapi/WeatherAPI/WeatherApi.csproj",
       "projectName": "WeatherApi",
-      "projectPath": "/home/ab/Downloads/All-dotnet-projects/WeatherAPI/WeatherApi/WeatherApi.csproj",
+      "projectPath": "/home/ab/Downloads/All-dotnet-projects/Weatherforecastapi/WeatherAPI/WeatherApi.csproj",
       "packagesPath": "/home/ab/.nuget/packages/",
-      "outputPath": "/home/ab/Downloads/All-dotnet-projects/WeatherAPI/WeatherApi/obj/",
+      "outputPath": "/home/ab/Downloads/All-dotnet-projects/Weatherforecastapi/WeatherAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ab/.nuget/NuGet/NuGet.Config"
